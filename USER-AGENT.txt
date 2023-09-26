@@ -41,7 +41,6 @@
  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.71 Safari/537.36 Edg/103.0.1264.71		
  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5206.172 Safari/537.36 Viewer/95.9.8888.89		
  Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.5249.112 Safari/537.36 OPR/92.0.0.0		
- Mozilla/5.0 (Windows NT 10.0; WOW64; rv	60.0) Gecko/20100101 Firefox/60.0	
  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.1899.105 Safari/537.36 Edg/104.0.1293.70		
  Mozilla/5.0 (Windows; U; Windows NT 10.0; ko-KR; Valve Steam GameOverlay/1666144119; ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.127 Safari/537.36		
  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.5152.196 Safari/537.36 Edg/106.0.5152.196		
